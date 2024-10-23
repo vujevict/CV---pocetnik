@@ -1,0 +1,9 @@
+.coolparagraph{
+  padding: 20px;
+  background-color: rgb(247, 247, 247);
+  color: rgb(0, 56, 121);
+  max-width:800px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
